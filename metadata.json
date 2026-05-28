@@ -1,0 +1,6 @@
+{
+  "name": "PSP Hub",
+  "description": "Companheiro e Otimizador para PSP (PlayStation Portable): catálogo de jogos, otimizador de configurações para emulador PPSSPP, diagnóstico de modelos de console, calculadora de compressão ISO/CSO e registros locais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
